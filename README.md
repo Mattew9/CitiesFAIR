@@ -9,6 +9,9 @@ Codice progetto: 4759b746
 
 Partner: Università del Salento – Parsec 3.26 srl
 
+CitiesFAIR  è uno strumento progettato per la valutazione e la visualizzazione della qualità dei (meta)dati dei portali opendata dei comuni di Crispiano, Massafra e Bitonto.
+Integrato con il software open source CkanFAIR , CitiesFAIR consente l'esecuzione di nuove analisi sul portale. Il tool conserva la lista dei portali per l'analisi, alimentando successivamente una dashboard interattiva.
+Tramite questa interfaccia, gli utenti possono esplorare in dettaglio le valutazioni dei portali, visualizzandole chiaramente attraverso un istogramma.
 
 CitiesFAIR è stato sviluppato rielaborando il progetto open source CkanFAIR del Datalab del 'Dipartimento di Ingegneria dell'Innovazione' dell'Università del Salento. 
 Il tool è dotato di una componente grafica progettata per assistere l'utente finale nella produzione di analisi e consente l'utilizzo di due componenti, ciascuna associata a una fase operativa:
@@ -18,6 +21,4 @@ Il tool è dotato di una componente grafica progettata per assistere l'utente fi
 
 Entrambe le fasi sono integrate in una singola dashboard sviluppata in Python utilizzando la libreria Dash di Plotly.
 
-CitiesFAIR  è uno strumento progettato per la valutazione e la visualizzazione della qualità dei (meta)dati dei portali opendata dei comuni di Crispiano, Massafra e Bitonto.
-Integrato con il software open source CkanFAIR , CitiesFAIR consente l'esecuzione di nuove analisi sul portale. Il tool conserva la lista dei portali per l'analisi, alimentando successivamente una dashboard interattiva.
-Tramite questa interfaccia, gli utenti possono esplorare in dettaglio le valutazioni dei portali, visualizzandole chiaramente attraverso un istogramma.
+
