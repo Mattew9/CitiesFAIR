@@ -15,6 +15,7 @@ Il tool è dotato di una componente grafica progettata per assistere l'utente fi
 -	Fase 2: Componente di consultazione delle valutazioni dei dataset.
 
 Entrambe le fasi sono integrate in una singola dashboard sviluppata in Python utilizzando la libreria Dash di Plotly.
+
 CitiesFAIR  è uno strumento progettato per la valutazione e la visualizzazione della qualità dei (meta)dati dei portali opendata dei comuni di Crispiano, Massafra e Bitonto.
 Integrato con il software open source CkanFAIR , CitiesFAIR consente l'esecuzione di nuove analisi sul portale. Il tool conserva la lista dei portali per l'analisi, alimentando successivamente una dashboard interattiva.
 Tramite questa interfaccia, gli utenti possono esplorare in dettaglio le valutazioni dei portali, visualizzandole chiaramente attraverso un istogramma.
