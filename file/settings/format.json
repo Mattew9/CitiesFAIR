@@ -1,0 +1,114 @@
+{
+  "max_point" : 4,
+
+  "rdf": {
+    "point": 4,
+    "non-proprietary": "yes",
+    "machine-readable": "yes",
+    "id": 1
+  },
+  "csv": {
+    "point": 3,
+    "non-proprietary": "yes",
+    "machine-readable": "yes",
+    "id": 2
+  },
+  "json": {
+    "point": 3,
+    "non-proprietary": "yes",
+    "machine-readable": "yes",
+    "id": 3
+  },
+  "xml": {
+    "point": 3,
+    "non-proprietary": "yes",
+    "machine-readable": "yes",
+    "id": 4
+  },
+  "ods": {
+    "point": 3,
+    "non-proprietary": "yes",
+    "machine-readable": "almost",
+    "id": 5
+  },
+  "xlsx": {
+    "point": 3,
+    "non-proprietary": "yes",
+    "machine-readable": "almost",
+    "id": 6
+  },
+  "xls": {
+    "point": 2,
+    "non-proprietary": "no",
+    "machine-readable": "almost",
+    "id": 7
+  },
+  "txt": {
+    "point": 1,
+    "non-proprietary": "yes",
+    "machine-readable": "almost",
+    "id": 8
+  },
+  "html": {
+    "point": 1,
+    "non-proprietary": "yes",
+    "machine-readable": "almost",
+    "id": 9
+  },
+  "pdf": {
+    "point": "1",
+    "non-proprietary": "yes",
+    "machine-readable": "no",
+    "id": 10
+  },
+  "docx": {
+    "point": 1,
+    "non-proprietary": "yes",
+    "machine-readable": "no",
+    "id": 1
+  },
+  "odt": {
+    "point": 1,
+    "non-proprietary": "yes",
+    "machine-readable": "no",
+    "id": 12
+  },
+  "png": {
+    "point": 1,
+    "non-proprietary": "yes",
+    "machine-readable": "no",
+    "id": 13
+  },
+  "gif": {
+    "point": 1,
+    "non-proprietary": "no",
+    "machine-readable": "no",
+    "id": 14
+  },
+  "jpg": {
+    "point": 1,
+    "non-proprietary": "no",
+    "machine-readable": "no",
+    "id": 15
+  },
+  "jpeg": {
+    "point": 1,
+    "non-proprietary": "no",
+    "machine-readable": "no",
+    "id": 16
+  },
+  "tiff": {
+    "point": 1,
+    "non-proprietary": "no",
+    "machine-readable": "no",
+    "id": 17
+  },
+  "doc": {
+    "point": 1,
+    "non-proprietary": "no",
+    "machine-readable": "no",
+    "id": 18
+  }
+}
+
+

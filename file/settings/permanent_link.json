@@ -1,0 +1,9 @@
+{
+  "formats": [
+    "data.europa.eu/88u/",
+    "purl.org",
+    "doi.org",
+    "w3id.org",
+    "https://identifiers.org/"
+  ]
+}

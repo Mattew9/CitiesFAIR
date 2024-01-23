@@ -1,0 +1,551 @@
+{
+"result":[
+ {
+  "property": "notes",
+  "DCAT_AP": "M",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "title",
+  "DCAT_AP": "M",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "resources",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "groups",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "O",
+  "merged": "R"
+ },
+ {
+  "property": "creator",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "R",
+  "merged": "R"
+ },
+ {
+  "property": "documentation",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "frequency",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "url",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "qualified_attribution",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "qualified_relation",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "spatial_resolution_in_meters",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "temporal_resolution",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "was_generated_by",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "access_rights",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "accrual_periodicity",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "theme",
+  "DCAT_AP-IT": "R",
+  "merged": "R"
+ }
+],
+"extra":[
+ {
+  "property": "publisher_uri",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "R",
+  "merged": "R"
+ },
+ {
+  "property": "spatial_uri",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "O",
+  "merged": "R"
+ },
+ {
+  "property": "temporal_start",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "O",
+  "merged": "R"
+ },
+ {
+  "property": "temporal_end",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "O",
+  "merged": "R"
+ },
+ {
+  "property": "theme",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "access_rights",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "conforms_to",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "has_version",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "identifier",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "is_referenced_by",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "is_version_of",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "alternate_identifier",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "language",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "provenance",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "issued",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "modified",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "dcat_version",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "version_notes",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "sample",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "source",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "dcat_type",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "contact_uri",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "R",
+  "merged": "R"
+ }
+],
+"contact_point":[
+ {
+  "property": "name",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "email",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "tel",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "url",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ }
+],
+"resources":[
+ {
+  "property": "url",
+  "DCAT_AP": "M",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "availability",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "description",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "R",
+  "merged": "R"
+ },
+ {
+  "property": "format",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "license",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "access_service",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "size",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "checksum",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "compress_format",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "documentation",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "download_url",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "has_policy",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "language",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "conforms_to",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "mimetype",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "package_format",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "issued",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "rights",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "spatial_resolution_in_meters",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "status",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "temporal_resolution",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "title",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "modified",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ }
+],
+"license":[
+ {
+  "property": "type",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "R",
+  "merged": "R"
+ },
+ {
+  "property": "name",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "version",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ }
+],
+"access_service":[
+ {
+  "property": "endpoint_url",
+  "DCAT_AP": "M",
+  "merged": "M"
+ },
+ {
+  "property": "title",
+  "DCAT_AP": "M",
+  "merged": "M"
+ },
+ {
+  "property": "endpoint_description",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "serves_dataset",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "access_rights",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "description",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "license",
+  "DCAT_AP": "O",
+  "merged": "O"
+ }
+],
+"checksum":[
+ {
+  "property": "hash_algorithm",
+  "DCAT_AP": "M",
+  "merged": "M"
+ },
+ {
+  "property": "hash",
+  "DCAT_AP": "M",
+  "merged": "M"
+ }
+],
+"conforms_to":[
+ {
+  "property": "identifier",
+  "DCAT_AP": "M",
+  "merged": "M"
+ },
+ {
+  "property": "title",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "description",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "reference_documentation",
+  "DCAT_AP": "O",
+  "merged": "O"
+ }
+],
+"publisher":[
+ {
+  "property": "name",
+  "DCAT_AP": "M",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "type",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "identifier",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ }
+],
+"identifier":[
+ {
+  "property": "notation",
+  "DCAT_AP": "M",
+  "merged": "M"
+ }
+],
+"spatial":[
+ {
+  "property": "bbox",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "centroid",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "geometry",
+  "DCAT_AP": "O",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ },
+ {
+  "property": "geographic_name",
+  "DCAT_AP-IT": "O",
+  "merged": "O"
+ }
+],
+"geometry":[
+ {
+  "property": "crs",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "coordinates",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "geometry_type",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ }
+],
+"temporal":[
+ {
+  "property": "start_date",
+  "DCAT_AP": "R",
+  "DCAT_AP-IT": "M",
+  "merged": "M"
+ },
+ {
+  "property": "end_date",
+  "DCAT_AP": "R",
+  "merged": "R"
+ },
+ {
+  "property": "has_beginning",
+  "DCAT_AP": "O",
+  "merged": "O"
+ },
+ {
+  "property": "has_end",
+  "DCAT_AP": "O",
+  "merged": "O"
+ }
+],
+"qualified_relation":[
+ {
+  "property": "had_role",
+  "DCAT_AP": "M",
+  "merged": "M"
+ },
+ {
+  "property": "relation",
+  "DCAT_AP": "M",
+  "merged": "M"
+ }
+]
+}

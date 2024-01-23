@@ -1,0 +1,120 @@
+{
+  "access_rights": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/access-right/"
+    ],
+    "property": [
+      "access_service",
+      "result"
+    ]
+  },
+  "country": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/dataset/country/"
+    ],
+    "property": [
+      "result",
+      "catalog"
+    ]
+  },
+  "categories": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/data-theme/"
+    ],
+    "property": [
+      "result"
+    ]
+  },
+  "theme_taxonomy": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/data-theme/"
+    ],
+    "property": [
+      "result"
+    ]
+  },
+  "status": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/dataset-status/",
+      "http://purl.org/adms/status/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  },
+  "distribution_format": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/file-type/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  },
+  "file_type": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/file-type/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  },
+    "mimetype": {
+    "vocabulary_format": [
+      "https://www.iana.org/assignments/media-types/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  },
+  "accrual_periodicity": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/dataset/frequency/"
+    ],
+    "property": [
+      "result"
+    ]
+  },
+  "language": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/language"
+    ],
+    "property": [
+      "catalog",
+      "result",
+      "distributions",
+      "resources"
+    ]
+  },
+  "license_type": {
+    "vocabulary_format": [
+      "http://publications.europa.eu/resource/authority/licence",
+      "https://w3id.org/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  },
+  "media_type": {
+    "vocabulary_format": [
+      "https://www.iana.org/assignments/media-types/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  },
+  "compress_format": {
+    "vocabulary_format": [
+      "https://www.iana.org/assignments/media-types/"
+    ],
+    "property": [
+      "distributions",
+      "resources"
+    ]
+  }
+}

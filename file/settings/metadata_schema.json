@@ -1,0 +1,407 @@
+{
+    "success": true,
+    "result": {
+        "id": "string",
+        "title": {
+            "property1": "string",
+            "property2": "string"
+        },
+        "description": {
+            "property1": "string",
+            "property2": "string"
+        },
+        "catalog": {
+            "id": "string"
+        },
+        "catalog_record": {
+            "issued": "2019-08-24",
+            "modified": "2019-08-24"
+        },
+        "accrual_periodicity": {
+            "label": "string",
+            "resource": "string"
+        },
+        "contact_point": [
+            {
+                "type": "string",
+                "name": "string",
+                "email": "string",
+                "address": "string",
+                "telephone": "string",
+                "url": [
+                    "string"
+                ],
+                "organisation_name": "string",
+                "resource": "string"
+            }
+        ],
+        "creator": {
+            "type": "string",
+            "name": "string",
+            "email": "string",
+            "resource": "string",
+            "homepage": "string"
+        },
+        "distributions": [
+            {
+                "id": "string",
+                "resource": "string",
+                "title": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "description": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "access_url": [
+                    "string"
+                ],
+                "download_url": [
+                    "string"
+                ],
+                "format": {
+                    "id": "string",
+                    "label": "string",
+                    "resource": "string"
+                },
+                "license": {
+                    "id": "string",
+                    "label": "string",
+                    "description": "string",
+                    "resource": "string",
+                    "la_url": "string"
+                },
+                "byte_size": 0,
+                "checksum": {
+                    "algorithm": "string",
+                    "checksum_value": "string"
+                },
+                "language": [
+                    {
+                        "id": "string",
+                        "label": "string",
+                        "resource": "string"
+                    }
+                ],
+                "media_type": "string",
+                "issued": "2019-08-24",
+                "modified": "2019-08-24",
+                "rights": {
+                    "label": "string",
+                    "resource": "string"
+                },
+                "status": {
+                    "label": "string",
+                    "resource": "string"
+                },
+                "page": [
+                    {
+                        "title": {
+                            "property1": "string",
+                            "property2": "string"
+                        },
+                        "description": {
+                            "property1": "string",
+                            "property2": "string"
+                        },
+                        "format": {
+                            "id": "string",
+                            "label": "string",
+                            "resource": "string"
+                        },
+                        "resource": "string"
+                    }
+                ],
+                "conforms_to": [
+                    {
+                        "label": "string",
+                        "resource": "string"
+                    }
+                ],
+                "availability": {
+                    "label": "string",
+                    "resource": "string"
+                },
+                "temporal_resolution": [
+                    "string"
+                ],
+                "spatial_resolution_in_meters": [
+                    0
+                ],
+                "access_service": [
+                    {
+                        "title": {
+                            "property1": "string",
+                            "property2": "string"
+                        },
+                        "description": {
+                            "property1": "string",
+                            "property2": "string"
+                        },
+                        "endpoint_url": [
+                            "string"
+                        ]
+                    }
+                ],
+                "compress_format": {
+                    "label": "string",
+                    "resource": "string"
+                },
+                "package_format": {
+                    "label": "string",
+                    "resource": "string"
+                },
+                "has_policy": "string",
+                "type": {
+                    "label": "string",
+                    "resource": "string"
+                },
+                "extended_metadata": {
+                    "is_used_by": [
+                        "string"
+                    ]
+                }
+            }
+        ],
+        "keywords": [
+            {
+                "label": "string",
+                "language": "string",
+                "resource": "string"
+            }
+        ],
+        "publisher": {
+            "type": "string",
+            "name": "string",
+            "email": "string",
+            "resource": "string",
+            "homepage": "string"
+        },
+        "categories": [
+            {
+                "id": "string",
+                "label": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "resource": "string"
+            }
+        ],
+        "access_right": {
+            "label": "string",
+            "resource": "string"
+        },
+        "conforms_to": [
+            {
+                "label": "string",
+                "resource": "string"
+            }
+        ],
+        "has_version": [
+            "string"
+        ],
+        "identifier": [
+            "string"
+        ],
+        "is_version_of": [
+            "string"
+        ],
+        "landing_page": [
+            {
+                "title": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "description": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "format": {
+                    "id": "string",
+                    "label": "string",
+                    "resource": "string"
+                },
+                "resource": "string"
+            }
+        ],
+        "page": [
+            {
+                "title": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "description": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "format": {
+                    "id": "string",
+                    "label": "string",
+                    "resource": "string"
+                },
+                "resource": "string"
+            }
+        ],
+        "language": [
+            {
+                "id": "string",
+                "label": "string",
+                "resource": "string"
+            }
+        ],
+        "provenance": [
+            {
+                "label": "string",
+                "resource": "string"
+            }
+        ],
+        "issued": "2019-08-24",
+        "modified": "2019-08-24",
+        "source": [
+            "string"
+        ],
+        "spatial": [
+            {}
+        ],
+        "spatial_resource": [
+            {
+                "id": "string",
+                "label": "string",
+                "resource": "string"
+            }
+        ],
+        "temporal": [
+            {
+                "lte": "2019-08-24",
+                "gte": "2019-08-24"
+            }
+        ],
+        "version_notes": {
+            "property1": "string",
+            "property2": "string"
+        },
+        "version_info": "string",
+        "country": {
+            "id": "string",
+            "label": "string",
+            "resource": "string"
+        },
+        "translation_meta": {
+            "full_available_languages": [
+                "string"
+            ],
+            "details": {
+                "property1": {
+                    "machine_translated": true,
+                    "original_language": "string",
+                    "issued": "2019-08-24",
+                    "received": "2019-08-24"
+                },
+                "property2": {
+                    "machine_translated": true,
+                    "original_language": "string",
+                    "issued": "2019-08-24",
+                    "received": "2019-08-24"
+                }
+            },
+            "status": "string"
+        },
+        "quality_meas": {
+            "scoring": 0
+        },
+        "legal_base": {
+            "id": "string",
+            "label": "string"
+        },
+        "geocoding_description": {
+            "id": "string",
+            "label": "string"
+        },
+        "type": {
+            "id": "string",
+            "label": "string",
+            "resource": "string"
+        },
+        "deadline": "2019-08-24",
+        "temporal_resolution": [
+            "string"
+        ],
+        "spatial_resolution_in_meters": [
+            0
+        ],
+        "relation": [
+            "string"
+        ],
+        "was_generated_by": [
+            "string"
+        ],
+        "is_referenced_by": [
+            "string"
+        ],
+        "sample": [
+            "string"
+        ],
+        "qualified_attribution": [
+            "string"
+        ],
+        "adms_identifier": [
+            {
+                "identifier": "string",
+                "scheme": "string",
+                "resource": "string"
+            }
+        ],
+        "subject": [
+            {
+                "label": {
+                    "property1": "string",
+                    "property2": "string"
+                },
+                "resource": "string"
+            }
+        ],
+        "qualified_relation": [
+            {
+                "relation": [
+                    "string"
+                ],
+                "had_role": [
+                    "string"
+                ]
+            }
+        ],
+        "attribute": [
+            "string"
+        ],
+        "dimension": [
+            "string"
+        ],
+        "num_series": 0,
+        "has_quality_annotation": [
+            "string"
+        ],
+        "stat_unit_measure": [
+            "string"
+        ]
+    },
+    "theme": "string",
+    "access_rights": "string",
+    "documentation": "string",
+    "frequency": "string",
+    "bbox": "string",
+    "centroid": "string",
+    "has_beginning": "string",
+    "has_end": "string",
+    "end_date": "string",
+    "geometry": "string",
+    "geographic_name": "string",
+    "crs": "string",
+    "coordinates": "string",
+    "geometry_type": "string",
+    "start_date": "string",
+    "rights_holder": "string",
+    "endpoint_description": "string",
+    "serves_dataset": "string",
+    "reference_documentation": "string"
+}
