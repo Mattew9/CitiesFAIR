@@ -5,7 +5,7 @@
 **Progetto di ricerca**
 **“Parsec4OpenData”** finanziato della Regione Puglia nell'ambito dei progetti RIPARTI - POC PUGLIA FESRTFSE 2014/2020 – CUP: F87G22000270002, codice assegno 62.
 
-Codice progetto:4759b746
+Codice progetto: 4759b746
 
 Partner: Università del Salento – Parsec 3.26 srl
 
